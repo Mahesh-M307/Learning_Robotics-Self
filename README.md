@@ -1,2 +1,2 @@
 # Learning_Robotics-Self
-This is my journey of learning robotics which I started taking seriously during my master's study. Let's see where it goes.
+This is my journey of learning robotics which I started taking seriously during my master's study. Let's see where it goes.I will be pushing random parts made on fusion360 by watching tutorials, some code and soldiworks too but not to complex because solidworks is new to me. I created a detailed plan by consulting various ai models like chatgpt, deepseek , grok and came up with a plan to learn from scratch. This is my attempt.
