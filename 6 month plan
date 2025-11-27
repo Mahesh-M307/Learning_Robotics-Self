@@ -1,0 +1,413 @@
+MONTH 1: SOFTWARE FOUNDATION
+Week 1: Linux & ROS2 Setup
+Dec 1-7
+
+Day 1 (Sun): Install Ubuntu 22.04 (dual-boot/VirtualBox)
+
+Day 2 (Mon): Basic terminal mastery (ls, cd, mkdir, sudo, apt)
+
+Day 3 (Tue): ROS2 Humble installation + verification
+
+Day 4 (Wed): Create GitHub repo with professional structure
+
+Day 5 (Thu): ROS2 nodes & topics (talker/listener)
+
+Day 6 (Fri): Custom message definitions
+
+Day 7 (Sat): Deliverable: Working ROS2 environment + first commit
+
+Week 2: Core ROS2 Concepts
+Dec 8-14
+
+Day 8 (Sun): ROS2 services (server/client)
+
+Day 9 (Mon): ROS2 actions (server/client)
+
+Day 10 (Tue): Launch files basics
+
+Day 11 (Wed): Parameters & parameter files
+
+Day 12 (Thu): Python OOP for robotics (classes, methods)
+
+Day 13 (Fri): Package creation & dependencies
+
+Day 14 (Sat): Deliverable: Multi-node communication system
+
+Week 3: Advanced ROS2
+Dec 15-21
+
+Day 15 (Sun): ROS2 bags (record/playback)
+
+Day 16 (Mon): TF2 transforms
+
+Day 17 (Tue): ROS2 testing (pytest)
+
+Day 18 (Wed): Lifecycle nodes
+
+Day 19 (Thu): Component nodes
+
+Day 20 (Fri): ROS2 command line mastery
+
+Day 21 (Sat): Deliverable: Professional ROS2 package structure
+
+Week 4: First Simulation
+Dec 22-28
+
+Day 22 (Sun): Gazebo/Webots installation
+
+Day 23 (Mon): URDF basics (create simple robot)
+
+Day 24 (Tue): Spawn robot in simulation
+
+Day 25 (Wed): Teleoperation node
+
+Day 26 (Thu): Sensor data visualization (RViz2)
+
+Day 27 (Fri): Basic world building
+
+Day 28 (Sat): Deliverable: Video of simulated robot navigation
+
+MONTH 2: PERCEPTION & AUTONOMY
+Week 5: Computer Vision I
+Dec 29-Jan 4
+
+Day 29 (Sun): OpenCV installation + ROS2 bridge
+
+Day 30 (Mon): Image reading/display/writing
+
+Day 31 (Tue): Color spaces (RGB, HSV, grayscale)
+
+Day 1 (Wed): Thresholding & binary images
+
+Day 2 (Thu): Contour detection
+
+Day 3 (Fri): Bounding boxes
+
+Day 4 (Sat): Deliverable: Object detection by color
+
+Week 6: Computer Vision II
+Jan 5-11
+
+Day 5 (Sun): Edge detection (Canny)
+
+Day 6 (Mon): Morphological operations
+
+Day 7 (Tue): Feature detection (ORB, SIFT)
+
+Day 8 (Wed): Feature matching
+
+Day 9 (Thu): Shape detection (circles, rectangles)
+
+Day 10 (Fri): Camera calibration
+
+Day 11 (Sat): Deliverable: Shape classifier for "science samples"
+
+Week 7: LIDAR & 3D Perception
+Jan 12-18
+
+Day 12 (Sun): Point Cloud Library installation
+
+Day 13 (Mon): PCL basics (read, visualize)
+
+Day 14 (Tue): LIDAR data in ROS2
+
+Day 15 (Wed): Point cloud filtering
+
+Day 16 (Thu): Plane segmentation (RANSAC)
+
+Day 17 (Fri): Clustering for object detection
+
+Day 18 (Sat): Deliverable: Nearest-obstacle detector
+
+Week 8: SLAM & Mapping
+Jan 19-25
+
+Day 19 (Sun): SLAM theory study (lectures/videos)
+
+Day 20 (Mon): Gmapping setup
+
+Day 21 (Tue): slam_toolbox configuration
+
+Day 22 (Wed): Map building with simulated LIDAR
+
+Day 23 (Thu): Map saving/loading
+
+Day 24 (Fri): Localization (AMCL)
+
+Day 25 (Sat): Deliverable: Autonomous mapping demo video
+
+MONTH 3: NAVIGATION & CONTROL
+Week 9: ROS2 Navigation Stack
+Jan 26-Feb 1
+
+Day 26 (Sun): Nav2 installation & setup
+
+Day 27 (Mon): Costmap configuration
+
+Day 28 (Tue): Global planner setup
+
+Day 29 (Wed): Local planner setup
+
+Day 30 (Thu): Behavior trees basics
+
+Day 31 (Fri): Waypoint following
+
+Day 1 (Sat): Deliverable: Autonomous navigation to waypoints
+
+Week 10: Path Planning Algorithms
+Feb 2-8
+
+Day 2 (Sun): A* algorithm theory
+
+Day 3 (Mon): A* implementation in Python
+
+Day 4 (Tue): RRT algorithm study
+
+Day 5 (Wed): RRT* improvements
+
+Day 6 (Thu): Global vs local planners
+
+Day 7 (Fri): Planner performance comparison
+
+Day 8 (Sat): Deliverable: Custom planner node
+
+Week 11: Control Theory
+Feb 9-15
+
+Day 9 (Sun): PID controller theory
+
+Day 10 (Mon): PID implementation for motor control
+
+Day 11 (Tue): Controller tuning (Ziegler-Nichols)
+
+Day 12 (Wed): Velocity control for differential drive
+
+Day 13 (Thu): Odometry calculation
+
+Day 14 (Fri): Twist message handling
+
+Day 15 (Sat): Deliverable: Smooth robot motion controller
+
+Week 12: Sensor Fusion
+Feb 16-22
+
+Day 16 (Sun): IMU data in ROS2
+
+Day 17 (Mon): Odometry from wheels
+
+Day 18 (Tue): Kalman Filter basics
+
+Day 19 (Wed): Extended Kalman Filter concepts
+
+Day 20 (Thu): Sensor fusion node
+
+Day 21 (Fri): Robot localization improvement
+
+Day 22 (Sat): Deliverable: Improved localization system
+
+MONTH 4: MECHANICAL DESIGN
+Week 13: CAD Foundations
+Feb 23-29
+
+Day 23 (Sun): Fusion 360/SolidWorks installation
+
+Day 24 (Mon): UI overview & navigation
+
+Day 25 (Tue): Sketching basics
+
+Day 26 (Wed): Constraints & dimensions
+
+Day 27 (Thu): Extrude & revolve features
+
+Day 28 (Fri): Basic part modeling (bracket)
+
+Day 29 (Sat): Deliverable: 5 modeled desk objects
+
+Week 14: Assemblies & Mechanisms
+Mar 1-7
+
+Day 1 (Sun): Assembly workspace
+
+Day 2 (Mon): Joint types & constraints
+
+Day 3 (Tue): Mate constraints
+
+Day 4 (Wed): 2-DOF arm design
+
+Day 5 (Thu): Rover suspension concept
+
+Day 6 (Fri): Motion study
+
+Day 7 (Sat): Deliverable: 2-DOF arm assembly
+
+Week 15: Engineering Analysis
+Mar 8-14
+
+Day 8 (Sun): FEA theory basics
+
+Day 9 (Mon): Static stress setup
+
+Day 10 (Tue): Mesh generation
+
+Day 11 (Wed): Applying loads & constraints
+
+Day 12 (Thu): Stress analysis
+
+Day 13 (Fri): Displacement analysis
+
+Day 14 (Sat): Deliverable: FEA report on rover component
+
+Week 16: Technical Documentation
+Mar 15-21
+
+Day 15 (Sun): GD&T symbols & meanings
+
+Day 16 (Mon): Datum features
+
+Day 17 (Tue): Tolerance stacks
+
+Day 18 (Wed): Creating engineering drawings
+
+Day 19 (Thu): Views & sections
+
+Day 20 (Fri): Annotation & dimensions
+
+Day 21 (Sat): Deliverable: Professional technical drawing package
+
+MONTH 5: SYSTEMS INTEGRATION
+Week 17: Rover-Manipulator Integration
+Mar 22-28
+
+Day 22 (Sun): URDF for complex robot
+
+Day 23 (Mon): Xacro files for parameterization
+
+Day 24 (Tue): Integrated robot in simulation
+
+Day 25 (Wed): Coordinated control system
+
+Day 26 (Thu): Action server for arm control
+
+Day 27 (Fri): Motion planning integration
+
+Day 28 (Sat): Deliverable: Combined system in simulation
+
+Week 18: Composites for Space
+Mar 29-Apr 4
+
+Day 29 (Sun): Composite materials theory
+
+Day 30 (Mon): Laminate theory basics
+
+Day 31 (Tue): Material selection trade-offs
+
+Day 1 (Wed): Composite vs metallic design
+
+Day 2 (Thu): Stiffness-to-weight ratios
+
+Day 3 (Fri): Thermal properties
+
+Day 4 (Sat): Deliverable: Composite component analysis report
+
+Week 19: C++ for Performance
+Apr 5-11
+
+Day 5 (Sun): C++ basics (variables, functions)
+
+Day 6 (Mon): Classes & objects in C++
+
+Day 7 (Tue): ROS2 C++ node structure
+
+Day 8 (Wed): C++ publisher/subscriber
+
+Day 9 (Thu): Memory management basics
+
+Day 10 (Fri): Performance comparison
+
+Day 11 (Sat): Deliverable: C++ version of critical node
+
+Week 20: Hardware Interface
+Apr 12-18
+
+Day 12 (Sun): Arduino/STM32 setup
+
+Day 13 (Mon): Blink LED & basic I/O
+
+Day 14 (Tue): Motor driver control
+
+Day 15 (Wed): PWM for speed control
+
+Day 16 (Thu): Sensor reading (ultrasonic)
+
+Day 17 (Fri): ROS2 serial communication
+
+Day 18 (Sat): Deliverable: Physical hardware control demo
+
+MONTH 6: CAPSTONE PROJECT
+Week 21: Mission Planning
+Apr 19-25
+
+Day 19 (Sun): Capstone project definition
+
+Day 20 (Mon): Behavior tree design
+
+Day 21 (Tue): Mission states definition
+
+Day 22 (Wed): Navigation integration
+
+Day 23 (Thu): Perception integration
+
+Day 24 (Fri): Manipulation integration
+
+Day 25 (Sat): Deliverable: Integrated system framework
+
+Week 22: Autonomous Mission
+Apr 26-May 2
+
+Day 26 (Sun): Object detection refinement
+
+Day 27 (Mon): Navigation to target
+
+Day 28 (Tue): Manipulator control sequence
+
+Day 29 (Wed): Sample acquisition simulation
+
+Day 30 (Thu): Return to home
+
+Day 1 (Fri): Error handling & recovery
+
+Day 2 (Sat): Deliverable: Full mission simulation
+
+Week 23: Portfolio Polish
+May 3-9
+
+Day 3 (Sun): GitHub repository cleanup
+
+Day 4 (Mon): README files creation
+
+Day 5 (Tue): Code documentation
+
+Day 6 (Wed): Demo video recording
+
+Day 7 (Thu): Video editing & production
+
+Day 8 (Fri): Portfolio website/page setup
+
+Day 9 (Sat): Deliverable: Professional portfolio
+
+Week 24: Technical Reporting
+May 10-16
+
+Day 10 (Sun): Report outline creation
+
+Day 11 (Mon): Introduction & background
+
+Day 12 (Tue): Technical approach
+
+Day 13 (Wed): Results & analysis
+
+Day 14 (Thu): Lessons learned
+
+Day 15 (Fri): Future work
+
+Day 16 (Sat): FINAL DELIVERABLE: Comprehensive technical report + demo video
